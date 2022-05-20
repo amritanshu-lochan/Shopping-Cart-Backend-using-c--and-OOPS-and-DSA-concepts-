@@ -1,9 +1,7 @@
-//Product, Item, Cart
+
 #include<string>
 #include<unordered_map>
 using namespace std;
-
-//Forward Declaration
 class Item;
 class Cart;
 
